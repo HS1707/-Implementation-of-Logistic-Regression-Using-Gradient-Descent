@@ -19,10 +19,22 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: YUGENDARAN.G
 RegisterNumber:  212221220063
 
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy import optimize
+
+data = np.loadtxt("/content/ex2data1 (2).txt", delimiter=',')
+x = data[:, [0,1]]
+y = data[:, 2]
+
+print("value of x:")
+x[:5]
+
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+![image](https://user-images.githubusercontent.com/128135616/233029096-75a04b2d-7c77-4b52-8709-9552c8933397.png)
+
 
 
 ## Result:
