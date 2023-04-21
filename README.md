@@ -125,6 +125,31 @@ np.mean(predict(res.x, x)  == y)
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/128135616/233592268-982cf456-c9f1-4b41-9884-068699afcef0.png)
+
+![image](https://user-images.githubusercontent.com/128135616/233593128-1aacd6e3-fbdb-4ce3-ad6e-7a7998e99ba0.png)
+
+![image](https://user-images.githubusercontent.com/128135616/233594334-7367732a-195c-4a82-8f71-d715f6444381.png)
+
+![image](https://user-images.githubusercontent.com/128135616/233594908-9e38f4fb-b5f6-4186-a707-db305ea9b7cd.png)
+
+![image](https://user-images.githubusercontent.com/128135616/233595279-028133da-c7e0-4590-872c-66b99647af6a.png)
+
+![image](https://user-images.githubusercontent.com/128135616/233595489-cded251d-6e60-42fb-a317-3fc57aee9e8c.png)
+
+![image](https://user-images.githubusercontent.com/128135616/233596071-5d0e5464-0ea5-43f8-b64f-572f3499d5db.png)
+
+![image](https://user-images.githubusercontent.com/128135616/233596346-5a174fce-f981-47ca-a5d8-44fca7c1a32b.png)
+
+![image](https://user-images.githubusercontent.com/128135616/233596520-b5ce8969-5263-4b85-b6f7-92b61f1209db.png)
+
+![image](https://user-images.githubusercontent.com/128135616/233596664-41e82d47-d99a-4818-994a-346a5b7d095d.png)
+
+
+
+
+
+
 
 
 
