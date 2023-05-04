@@ -8,13 +8,11 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Import dataset
-2. Check for null and duplicate values
-3. Assign x and y values
-4. Split data into train and test data
-5. Import logistic regression and fit the training data
-6. Predict y value
-7. Calculate accuracy and confusion matrix 
+1. Use the standard libraries in python for finding linear regression.
+2. Set variables for assigning dataset values.
+3. Import linear regression from sklearn.
+4. Predict the values of array.
+5. Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 
 ## Program:
 ```
